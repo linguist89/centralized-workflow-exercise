@@ -1,0 +1,5 @@
+When using 'git grep -i <sometext>' I find that it can often be useful to print line numbers
+using the flag '-n' i.e. 'git grep -in <sometext>'.
+
+Sometimes it can also be useful to print the 'x' following lines, not containing <sometext> 
+in order to gain an overview of some specific part of a large code i.e.: 'git grep -inA x <sometext>'
