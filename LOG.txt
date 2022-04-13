@@ -1,0 +1,116 @@
+commit 41846f13f1857e865db9fdac01df4493461897e1
+Merge: 212b7fa 300e3c0
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Mon Apr 11 07:56:46 2022 +0200
+
+    Merge pull request #9 from linguist89/edmond
+    
+    practicing Centralized workflow
+
+commit 300e3c08012780ccde9e4020971f2459cc7f1c4f
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Mon Apr 11 12:49:35 2022 +0700
+
+    practicing Centralized workflow
+
+commit 212b7fadcc2c711801a62a1f7b9f3f0503c90010
+Merge: 917c8ce 66c8699
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 11:32:42 2022 +0100
+
+    Merge pull request #7 from linguist89/coffee
+    
+    Coffee recipe, this closes #5
+
+commit 917c8ce17942ef5b302782f80dd5a3828c053366
+Merge: 86f77cc 51ec974
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 11:30:15 2022 +0100
+
+    Merge pull request #8 from linguist89/sonata-issue3
+    
+    closes #5
+
+commit 51ec97498b8aaee3f1c60d9e681cb86ac23c3992
+Author: sonatak <sonatak@gmail.com>
+Date:   Thu Mar 24 11:26:04 2022 +0100
+
+    closes #5
+
+commit 66c8699cb7464455eac9fbcecf85776c4f56df0d
+Author: Frederik Kamper Jørgensen <fkaj@adm-130967.adm.c.sdu.dk>
+Date:   Thu Mar 24 11:22:38 2022 +0100
+
+    Coffee recipe, this closes #5
+
+commit 86f77cc8b8050a27ba22eecb25361e2a6e019323
+Merge: fa6e1bc 126ab26
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 11:21:52 2022 +0100
+
+    Merge pull request #6 from linguist89/edmond
+    
+    my recipe
+
+commit 126ab260d73a652034736a56c70fb80b8e685f46
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 11:06:02 2022 +0100
+
+    my recipe
+
+commit fa6e1bcace7a13e6d8bc1b036d0ba7948bab19dd
+Merge: a24e73f 57126cf
+Author: linguist89 <52411527+linguist89@users.noreply.github.com>
+Date:   Thu Mar 24 10:29:49 2022 +0100
+
+    Merge pull request #4 from linguist89/sonata-issue3
+    
+    closes #3
+
+commit 57126cf2910d7ae952f43918d327d62345d69804
+Author: sonatak <sonatak@gmail.com>
+Date:   Thu Mar 24 10:21:53 2022 +0100
+
+    closes #3
+
+commit a24e73f9388ddf1d5f76dbfbba49cd356c775f2d
+Merge: 8c5752f 2a27d45
+Author: linguist89 <52411527+linguist89@users.noreply.github.com>
+Date:   Thu Mar 24 10:09:18 2022 +0100
+
+    Merge pull request #1 from linguist89/sonata-somefeature
+    
+    adding sonata.txt
+
+commit 8c5752f8ea6eeb79baf614b5bcbb588ecd8d7fa4
+Merge: 398adb6 df40394
+Author: linguist89 <52411527+linguist89@users.noreply.github.com>
+Date:   Thu Mar 24 10:08:53 2022 +0100
+
+    Merge pull request #2 from linguist89/kamper-feature
+    
+    Personal git trick/preference
+
+commit 398adb6110493d2673e30da33454cebf6b7fd735
+Author: stephan <smuts1989@gmail.com>
+Date:   Thu Mar 24 09:58:36 2022 +0100
+
+    Added stephan's recipe for onion soup
+
+commit df40394c80e46fcd32ea1d0fa3e3a507a6ebb136
+Author: Frederik Kamper Jørgensen <fkaj@adm-130967.adm.c.sdu.dk>
+Date:   Thu Mar 24 09:55:19 2022 +0100
+
+    Personal git trick/preference
+
+commit 2a27d453917468d86c72899b742320ea55d7a2a9
+Author: sonatak <sonatak@gmail.com>
+Date:   Thu Mar 24 09:44:56 2022 +0100
+
+    adding sonata.txt
+
+commit 989c39d74b6c0d497c98b5e3055d73f9a1b68fcc
+Author: linguist89 <52411527+linguist89@users.noreply.github.com>
+Date:   Thu Mar 24 09:27:46 2022 +0100
+
+    Initial commit
